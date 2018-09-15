@@ -1,0 +1,12 @@
+Introduction to Fractal Theory
+http://pages.cs.wisc.edu/~ergreen/honors_thesis/fractal.html
+
+What is a fractal? In the most generalized terms, a fractal demostrates a limit. Fractals model complex physical processes 
+and dynamical systems. The underlying principle of fractals is that a simple process that goes through infinitely many 
+iterations becomes a very complex process. Fractals attempt to model the complex process by searching for the simple process underneath.
+
+Most fractals operate on the principle of a feedback loop. A simple operation is carried out on a piece of data and
+then fed back in again. This process is repeated infinitely many times. The limit of the process produced is the fractal.
+
+Almost all fractals are at least partially self-similar. This means that a part of the fractal is identical to the entire 
+fractal itself except smaller.
